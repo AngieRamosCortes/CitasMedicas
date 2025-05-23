@@ -36,3 +36,8 @@ El sistema sigue una arquitectura de microservicios con:
 2. Configurar MongoDB en `application.properties`
 3. Ejecutar:
 mvn spring-boot:run
+
+##Diagramas:
+![image](https://github.com/user-attachments/assets/f0944d4e-ab02-4a94-b147-342c071f1686)
+
+
