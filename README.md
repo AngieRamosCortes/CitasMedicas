@@ -39,5 +39,7 @@ mvn spring-boot:run
 
 ##Diagramas:
 ![image](https://github.com/user-attachments/assets/f0944d4e-ab02-4a94-b147-342c071f1686)
+![image](https://github.com/user-attachments/assets/767b331d-54b2-4446-ae78-da715215ef8e)
+
 
 
